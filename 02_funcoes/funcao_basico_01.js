@@ -1,5 +1,4 @@
 // Function declaration
-
 function bomDia() {
   console.log("Bom dia!");
 }
@@ -7,7 +6,7 @@ function bomDia() {
 bomDia();
 
 // Function expression
-
+//
 const boaTarde = function () {
   console.log("Boa tarde!");
 };
